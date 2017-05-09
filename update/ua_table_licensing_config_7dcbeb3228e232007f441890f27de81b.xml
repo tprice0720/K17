@@ -14,14 +14,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-09 17:49:44</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>51dae33ef1a232007f4419c62aef63b7</sys_id>
+        <sys_id>7dcbeb3228e232007f441890f27de81b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_k17_lab</sys_name>
         <sys_package display_value="K17" source="x_snc_k17">e54ddb7a28a232007f441890f27de8d8</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="K17">e54ddb7a28a232007f441890f27de8d8</sys_scope>
-        <sys_update_name>ua_table_licensing_config_51dae33ef1a232007f4419c62aef63b7</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_7dcbeb3228e232007f441890f27de81b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-05-09 17:49:44</sys_updated_on>
     </ua_table_licensing_config>
